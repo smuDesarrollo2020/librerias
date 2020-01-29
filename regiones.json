@@ -37,11 +37,11 @@
          ]
      },
      {
-        "nombreRegion": "La Araucanía",
+        "nombreRegion": "la araucanía",
         "comunas": ["angol", "collipulli","curacautin","lautaro","loncoche","nueva-imperial","pitrufquen","pucon","temuco","traiguen","victoria","villarrica"]
      },
      {
-        "nombreRegion": "Los Lagos",
+        "nombreRegion": "los lagos",
         "comunas": ["Ancud", "calbuco","castro","frutillar","llanquihue","osorno","puerto montt","purranque","quellon","quinchao"]
      },
      {
@@ -65,7 +65,7 @@
         "comunas": ["chillán","chillán-viejo","coihueco", "bulnes","yungay","el-carmen"]
      },
      {
-        "nombreRegion": "O'Higgins",
+        "nombreRegion": "o'higgins",
         "comunas": ["chimbarongo","graneros","las-cabras", "machali","nancagua","peumo","rancagua","san fernando","san vicente","rengo","santa cruz"]
      },
      {
