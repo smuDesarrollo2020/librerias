@@ -1,0 +1,61 @@
+[
+
+     {
+        "nombreRegion": "biobío",
+        "comunas": ["concepción","hualpen","los ángeles","tomé"]
+     },
+     {
+         "nombreRegion": "coquimbo",
+         "comunas": ["ovalle"]
+     },
+     {
+        "nombreRegion": "la araucanía",
+        "comunas": ["angol","temuco"]
+     },
+     {
+        "nombreRegion": "los lagos",
+        "comunas": ["puerto montt"]
+     },
+     {
+        "nombreRegion": "los ríos",
+        "comunas": ["la unión","valdivia"]
+     },
+     {
+        "nombreRegion": "maule",
+        "comunas": ["curicó","linares"]
+     },
+     {
+        "nombreRegion": "metropolitana",
+        "comunas": [
+            "estacion central"
+            ,"san bernardo"
+            ,"la cisterna"
+            ,"buin"
+            ,"peñaflor"
+            ,"lo prado"
+            ,"la florida"
+            ,"colina"
+            ,"pudahuel"
+            ,"san joaquín"
+            ,"maipu"
+            ,"recoleta"
+            ,"cerrillos"
+            ,"puente alto"
+            ,"macul"
+            ,"san miguel"
+            ,"santiago"
+        ]
+     },
+     {
+        "nombreRegion": "ñuble",
+        "comunas": ["chillán"]
+     },
+     {
+        "nombreRegion": "o'higgins",
+        "comunas": ["rancagua","san fernando","san vicente","rengo","santa cruz"]
+     },
+     {
+        "nombreRegion": "valparaíso",
+        "comunas": ["san antonio","los andes","san felipe","villa alemana","quilpue","la calera"]
+     }
+]
