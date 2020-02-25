@@ -1,0 +1,244 @@
+[
+
+     {
+          "nombreRegion": "metropolitana",
+          "comunas": [
+               "til-til",
+               "curacavi",
+               "lampa",
+               "ñuñoa",
+               "estacion central",
+               "maipu",
+               "la florida",
+               "puente alto",
+               "san bernardo",
+               "quinta normal",
+               "buin",
+               "las condes",
+               "san miguel",
+               "santiago",
+               "vitacura",
+               "la reina",
+               "independencia",
+               "providencia",
+               "conchalí",
+               "peñalolen",
+               "conchali",
+               "pudahuel",
+               "lo barnechea",
+               "la cisterna",
+               "renca",
+               "huechuraba",
+               "la dehesa",
+               "san joaquín",
+               "talagante"]
+     },
+
+     {
+          "nombreRegion": "los lagos",
+          "comunas": [
+               "osorno",
+               "purranque",
+               "castro",
+               "quinchao",
+               "puerto montt",
+               "calbuco",
+               "quellon",
+               "llanquihue",
+               "frutillar"
+          ]
+     },
+
+     {
+          "nombreRegion": "valparaíso",
+          "comunas": [
+               "olmué",
+               "quillota",
+               "san felipe",
+               "los andes",
+               "casablanca",
+               "limache",
+               "viña del mar",
+               "quintero",
+               "villa alemana",
+               "valparaíso",
+               "santo domingo",
+               "el quisco",
+               "llay - llay",
+               "el tabo",
+               "puchuncavi",
+               "cartagena",
+               "quilpue"
+          ]
+     },
+
+     {
+          "nombreRegion": "coquimbo",
+          "comunas": [
+               "la serena",
+               "coquimbo",
+               "ovalle",
+               "illapel",
+               "los vilos",
+               "combarbala",
+               "salamanca",
+               "vicuña"
+          ]
+     },
+
+     {
+          "nombreRegion": "atacama",
+          "comunas": [
+               "vallenar",
+               "copiapo",
+               "vallenar ii",
+               "diego de almagro",
+               "chañaral",
+               "caldera"
+          ]
+     },
+
+     {
+          "nombreRegion": "antofagasta",
+          "comunas": [
+               "antofagasta",
+               "calama",
+               "tocopilla"
+          ]
+     },
+     {
+          "nombreRegion": "biobío",
+          "comunas": [
+               "penco",
+               "talcahuano",
+               "concepción",
+               "coronel",
+               "lota",
+               "concepcion",
+               "chiguayante",
+               "san pedro de la paz",
+               "nacimiento",
+               "mulchén",
+               "los angeles",
+               "arauco",
+               "curanilahue",
+               "lebu",
+               "laja",
+               "tomé",
+               "quillón",
+               "yumbel",
+               "cabrero",
+               "hualqui",
+               "coelemu",
+               "hualpen",
+               "cañete",
+               "tucapel"
+          ]
+     },
+     {
+          "nombreRegion": "la araucanía",
+          "comunas": [
+               "angol",
+               "villarrica",
+               "loncoche",
+               "traiguen",
+               "collípullí",
+               "lautaro",
+               "pitrufquen",
+               "nueva imperial",
+               "curacautín",
+               "victoria",
+               "temuco",
+               "padre las casas",
+               "pucon"
+          ]
+     },
+
+     {
+          "nombreRegion": "tarapacá",
+          "comunas": [
+               "iquique",
+               "alto hospicio"
+          ]
+     },
+
+     {
+          "nombreRegion": "maule",
+          "comunas": [
+               "linares",
+               "curico",
+               "constitucion",
+               "curicó",
+               "molina",
+               "teno",
+               "cauquenes",
+               "sagrada familia",
+               "san clemente",
+               "romeral",
+               "san javier",
+               "talca",
+               "ancud"     
+          ]
+     },
+     {
+          "nombreRegion": "o'higgins",
+          "comunas": [
+               "san fernando",
+               "rancagua",
+               "las cabras",
+               "peumo",
+               "chimbarongo",
+               "nancagua",
+               "graneros"
+          ]
+     },
+
+     {
+          "nombreRegion": "ñuble",
+          "comunas": [
+               "chillán",
+               "san carlos",
+               "bulnes",
+               "coihueco",
+               "yungay",
+               "chillán viejo ",
+               "el carmen"
+          ]
+     },
+     {
+          "nombreRegion": "los ríos",
+          "comunas": [
+               "valdivia",
+               "mariquina",
+               "los lagos",
+               "la union",
+               "paillaco",
+               "rio bueno",
+               "panguipulli"
+          ]
+     },
+     {
+          "nombreRegion": "aysén",
+          "comunas": [
+               "aysen",
+               "coyhaique"
+          ]
+     },
+
+     {
+          "nombreRegion": "magallanes",
+          "comunas": [
+               "punta arenas",
+               "puerto natales"
+          ]
+     },
+
+
+     {
+          "nombreRegion": "arica y parinacota",
+          "comunas": [
+               "arica"
+          ]
+     }
+
+]
