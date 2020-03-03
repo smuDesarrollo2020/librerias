@@ -1,0 +1,38 @@
+[
+
+     {
+          "nombreRegion": "metropolitana",
+          "comunas": [
+               "santiago",
+               "providencia",
+               "las condes",
+               "vitacura",
+               "ñuñoa",
+               "cerrillos",
+               "san miguel",
+               "san joaquin",
+               "la reina",
+               "lo barnechea",
+               "colina",
+               "macul ",
+               "recoleta",
+               "huechuraba",
+               "chiguayante",
+               "maipú",
+               "la florida"
+          ]
+       },
+       {
+          "nombreRegion": "valparaíso",
+          "comunas": [
+               "viña del mar",
+               "valparaíso",
+               "puchuncaví",
+               "zapallar"
+          ]
+       },
+     {
+        "nombreRegion": "biobío",
+        "comunas": ["concepción","chiguayante","san pedro de la paz"]
+     }
+]
