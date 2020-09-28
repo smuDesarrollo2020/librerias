@@ -2,7 +2,7 @@
 
      {
         "nombreRegion": "biobío",
-        "comunas": ["concepción","hualpen","los ángeles","tomé"]
+        "comunas": ["concepción","hualpén","los ángeles","tomé"]
      },
      {
          "nombreRegion": "coquimbo",
@@ -22,12 +22,12 @@
      },
      {
         "nombreRegion": "maule",
-        "comunas": ["curico","linares"]
+        "comunas": ["curicó","linares"]
      },
      {
         "nombreRegion": "metropolitana",
         "comunas": [
-            "estacion central"
+            "estación central"
             ,"san bernardo"
             ,"la cisterna"
             ,"buin"
@@ -38,7 +38,7 @@
             ,"colina"
             ,"pudahuel"
             ,"san joaquín"
-            ,"maipu"
+            ,"maipú"
             ,"recoleta"
             ,"cerrillos"
             ,"puente alto"
@@ -57,6 +57,6 @@
      },
      {
         "nombreRegion": "valparaíso",
-        "comunas": ["san antonio","los andes","san felipe","villa alemana","quilpue","la calera"]
+        "comunas": ["san antonio","los andes","san felipe","villa alemana","quilpué","la calera","valparaíso"]
      }
 ]
